@@ -24,17 +24,17 @@ Ce projet vise à analyser les ventes d’un supermarché à travers un tableau 
 ## Pages du Tableau de Bord
 
 ### Page 1: Sales Performance and Customer Insights 2019
-![Sales Performance and Customer Insights 2019](https://github.com/raniasouissi/Analyse-des-ventes-Supermarch-/path/to/your/image1.png)
+![Sales Performance and Customer Insights 2019](images/pag1.png)
 
 Cette page fournit des informations détaillées sur la performance des ventes en 2019, ainsi que des insights sur le comportement des clients.
 
 ### Page 2: Product Line Performance and Customer Insights
-![Product Line Performance and Customer Insights](https://github.com/raniasouissi/Analyse-des-ventes-Supermarch-/path/to/your/image2.png)
+![Product Line Performance and Customer Insights](images/pag2.png)
 
 Explorez les performances des lignes de produits et l'impact des différents types de produits sur les ventes et les revenus.
 
 ### Page 3: Comprehensive Revenue and Sales Analysis
-![Comprehensive Revenue and Sales Analysis](https://github.com/raniasouissi/Analyse-des-ventes-Supermarch-/path/to/your/image3.png)
+![Comprehensive Revenue and Sales Analysis](images/pag3.png)
 
 Une analyse complète des revenus et des ventes, avec une vue d'ensemble des principales tendances de consommation.
 
