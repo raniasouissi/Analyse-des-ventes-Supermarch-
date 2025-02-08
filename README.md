@@ -1,44 +1,45 @@
-# Analyse des Ventes – Supermarché
+# Sales Analysis – Supermarket
 
-## Description du Projet
+## Project Description
 
-Ce projet vise à analyser les ventes d’un supermarché à travers un tableau de bord interactif. Il explore l'impact de divers facteurs tels que les prix des produits, les quantités vendues, et les modes de paiement sur les performances des ventes. Le tableau de bord permet d'obtenir des insights en temps réel, facilitant la prise de décisions stratégiques pour améliorer les performances commerciales.
+This project aims to analyze the sales of a supermarket through an interactive dashboard. It explores the impact of various factors such as product prices, quantities sold, and payment methods on sales performance. The dashboard provides real-time insights, facilitating strategic decision-making to improve business performance.
 
-## Fonctionnalités principales
-- **Analyse des ventes par produit, quantités vendues et modes de paiement.**
-- **Calcul et suivi des KPIs :** Total des ventes, marges brutes, et autres indicateurs clés de performance.
-- **Filtres dynamiques** pour explorer les données selon les critères : ville, type de client, produit, etc.
-- **Visualisations interactives** avec Power BI pour une prise de décision rapide.
+## Main Features
+- **Sales analysis by product, quantities sold, and payment methods.**
+- **Calculation and tracking of KPIs:** Total sales, gross margins, and other key performance indicators.
+- **Dynamic filters** to explore data based on criteria such as city, customer type, product, etc.
+- **Interactive visualizations** with Power BI for quick decision-making.
 
-## Objectifs
-- Optimiser les stratégies de prix et de stock.
-- Analyser les tendances de consommation et l'impact des promotions.
-- Améliorer la gestion des ventes et des stocks en fonction des données.
+## Objectives
+- Optimize pricing and stock strategies.
+- Analyze consumption trends and the impact of promotions.
+- Improve sales and stock management based on data.
 
-## Technologies utilisées
-- **Power BI** pour la création de tableaux de bord interactifs.
-- **DAX** pour les calculs avancés et KPIs.
-- **Power Query** pour l'extraction et la transformation des données.
-- **Excel** pour le prétraitement et l'analyse des données.
+## Technologies Used
+- **Power BI** for creating interactive dashboards.
+- **DAX** for advanced calculations and KPIs.
+- **Power Query** for data extraction and transformation.
+- **Excel** for data preprocessing and analysis.
 
-## Pages du Tableau de Bord
+## Dashboard Pages
 
 ### Page 1: Sales Performance and Customer Insights 2019
 ![Sales Performance and Customer Insights 2019](images/pag1.png)
 
-Cette page fournit des informations détaillées sur la performance des ventes en 2019, ainsi que des insights sur le comportement des clients.
+This page provides detailed insights into the sales performance in 2019, along with customer behavior insights.
 
 ### Page 2: Product Line Performance and Customer Insights
 ![Product Line Performance and Customer Insights](images/pag2.png)
 
-Explorez les performances des lignes de produits et l'impact des différents types de produits sur les ventes et les revenus.
+Explore the performance of product lines and the impact of different product types on sales and revenue.
 
 ### Page 3: Comprehensive Revenue and Sales Analysis
 ![Comprehensive Revenue and Sales Analysis](images/pag3.png)
 
-Une analyse complète des revenus et des ventes, avec une vue d'ensemble des principales tendances de consommation.
+A comprehensive analysis of revenue and sales, providing an overview of key consumption trends.
 
 ## Installation
-1. Clonez le dépôt :  
+1. Clone the repository:  
 ```bash
-git clone https://github.com/raniasouissi/Analyse-des-ventes-Supermarch-/.git
+git clone https://github.com/raniasouissi/Sales-Analysis-Supermarket/.git
+
